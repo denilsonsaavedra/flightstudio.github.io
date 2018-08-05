@@ -158,7 +158,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			border-bottom-color: #f56a6a;
+			border-bottom-color: #1180AE;
 			color: #B66BA3 !important;
 		}
 
@@ -1864,8 +1864,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #f56a6a;
-			box-shadow: 0 0 0 1px #f56a6a;
+			border-color: #B66BA3;
+			box-shadow: 0 0 0 1px #B66BA3;
 		}
 
 	select {
@@ -2286,7 +2286,7 @@ input, select, textarea {
 			}
 
 			ul.contact li:before {
-				color: #f56a6a;
+				color: #1180AE;
 				display: inline-block;
 				font-size: 1.5em;
 				height: 1.125em;
