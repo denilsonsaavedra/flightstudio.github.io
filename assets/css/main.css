@@ -158,7 +158,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			border-bottom-color: #1180AE;
+			border-bottom-color: #f56a6a;
 			color: #B66BA3 !important;
 		}
 
@@ -2057,11 +2057,14 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 28%;
+			width:10px;
+			min-width: 28%;
+			
 		}
 
 			.image.left img, .image.right img {
-				width: 100%;
+				width:272px;
+			
 			}
 
 		.image.left {
