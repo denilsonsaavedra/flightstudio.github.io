@@ -1797,7 +1797,7 @@ input, select, textarea {
 	}
 
 	header.major > :last-child {
-		border-bottom: solid 3px #5f4b8b;
+		border-bottom: solid 5px #5f4b8b;
 		display: inline-block;
 		margin: 0 0 2em 0;
 		padding: 0 0.75em 0.5em 0;
@@ -3035,7 +3035,7 @@ input, select, textarea {
 
 			#main > .inner > section {
 				padding: 6em 0 4em 0 ;
-				border-top: solid 2px rgba(210, 215, 217, 0.75);
+				border-top: solid 1px rgba(210, 215, 217, 0.75);
 			}
 
 				#main > .inner > section:first-of-type {
@@ -3336,7 +3336,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #5f4b8b;
+		border-bottom: solid 7px #5f4b8b;
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
