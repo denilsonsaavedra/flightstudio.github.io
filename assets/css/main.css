@@ -2189,14 +2189,12 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		border-radius: 0.375em;
 		border: 0;
 		display: inline-block;
 		position: relative;
 	}
 
 		.image img {
-			border-radius: 0.375em;
 			display: block;
 		}
 
