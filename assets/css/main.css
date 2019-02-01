@@ -2185,7 +2185,7 @@ input, select, textarea {
 		.icon > .label {
 			display: none;
 		}
-/* Video */
+/* Video 
 .video {
 		border: 0;
 		display: inline-block;
@@ -2194,8 +2194,16 @@ input, select, textarea {
 
 .video video {
 			display: block;
+		} */
+.video.main {
+			display: block;
+			margin: 0 0 3em 0;
+			width: 100%;
 		}
 
+			.video.main video {
+				width: 100%;
+			}
 
 /* Image */
 
